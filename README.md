@@ -28,3 +28,12 @@ Hello Everyone and Welcome to My Profile
  
  export default App;
 ```
+
+to create a React App run
+
+```js
+ npx create-react-app .
+ // or
+ npm install -g create-react-app
+ create-react-app
+```
