@@ -1,7 +1,5 @@
 Hello Everyone and Welcome to My Profile
 
-![ProfilePicture](https://lh3.googleusercontent.com/ogw/ADGmqu9mhExYJV1LolgzwKnAUrIlEdjxBpMvJcpwbljL=s83-c-mo)
-
 ## my goals
 - [x] make a github account
 - [x] learn `React`
@@ -35,5 +33,5 @@ to create a React App run
  npx create-react-app .
  // or
  npm install -g create-react-app
- create-react-app
+ create-react-app .
 ```
