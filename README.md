@@ -7,4 +7,4 @@ subscribe to me on [youtube](https://www.youtube.com/channel/UCiQLMU0n3-EwWGNncj
 - [x] learn `React`
 - [x] make Projects
 
-[[image]](https://raw.githubusercontent.com/codeSTACKr/codestackr-vscode-theme/master/images/theme-demo.gif)
+[image](https://raw.githubusercontent.com/codeSTACKr/codestackr-vscode-theme/master/images/theme-demo.gif)
