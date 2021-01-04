@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hanbal Ahmed</h1>
-- 🔭 I’m currently working on **my scss project**
+
+<div align="center">
+ - 🔭 I’m currently working on **my scss project**
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
