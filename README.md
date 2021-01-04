@@ -2,9 +2,4 @@
 
 Hello Everyone and Welcome to My Profile
 
-subscribe to me on [youtube](https://www.youtube.com/channel/UCiQLMU0n3-EwWGNncjhev3Q)
-
-## my goals
-- [x] make a github account
-- [x] learn `React`
-- [x] make Projects
+subscribe to me on ![youtube](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/YouTube.svg)
