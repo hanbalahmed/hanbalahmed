@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanbal Ahmed</h1>
 
 <div align="center">
- - 🔭 I’m currently working on **my scss project**
+  - 🔭 i have made A Minecraft Recource pack
 </div>
 
 <h3 align="center">Connect with me:</h3>
