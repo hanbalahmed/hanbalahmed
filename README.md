@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanbal Ahmed</h1>
 
 <div align="center">
-  - 🔭 i have made A Minecraft Recource pack
+  - 🔭 i like to make websites
 </div>
 
 <h3 align="center">Connect with me:</h3>
