@@ -2,7 +2,7 @@
 
 <div align="center">
   - 🔭 i like to make websites <br>
-  - im learning 🐍 (python) and ☕(java)
+  - im learning 🐍 (python)
 </div>
 
 <h3 align="center">Connect with me:</h3>
