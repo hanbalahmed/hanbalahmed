@@ -2,7 +2,7 @@
 
 <div align="center">
   - 🔭 i like to make websites <br>
-  - im learning 🐍 (python)
+  - im learning 🐍 (python) <br>
   - Here You Can Find Everything, Finished, Unfinished and Abandoned Projects
 </div>
 
